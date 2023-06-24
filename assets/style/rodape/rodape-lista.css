@@ -1,0 +1,6 @@
+.rodape__lista{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 2.5625rem 9.875rem 1.5rem 9.875rem ;
+}

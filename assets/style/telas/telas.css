@@ -1,0 +1,10 @@
+
+.container__telas{
+  margin: 9.0625rem 0 ;
+}
+
+.telas{
+    margin: 2.5rem 9.6875rem  ;
+      display: grid;
+    grid-template-columns: 33% 33% 33%;
+}

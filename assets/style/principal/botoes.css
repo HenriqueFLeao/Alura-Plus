@@ -1,0 +1,48 @@
+@import url(../variaveis.css);
+
+.botoes{
+   text-decoration: none;
+   color: var(--branco-principal);
+   display: block;
+   background-color: var(--botao-azul);
+   border-radius: 0.625rem;
+   padding: 1rem;
+   margin: 1rem 0;
+}
+
+.botao__principal{
+  border: solid var(--branco-principal) 1px;
+  background-color: transparent;
+}
+
+.botao__descricao{
+  display: inline-block;
+}
+
+.botoes:hover{
+  background-color: var(--botao-ativo) ;
+  color: var(--cor-de-fundo);
+}
+
+  /* .botoes{
+        border-radius:  ;
+        border: solid var(--branco-principal) 1px ;
+        color: var(--branco-principal);
+        font-size: 1rem;
+        font-weight: 400;
+        text-decoration: none;
+
+  }
+
+ .botao1{
+   background-color: var(--botao-azul);
+   border: none;
+  }
+
+  .descricao__botao{
+    border-radius: 0.625rem;
+    color: var(--branco-principal);
+    text-decoration: none;
+    padding: 1rem;
+
+  } */

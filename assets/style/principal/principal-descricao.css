@@ -1,0 +1,7 @@
+@import url(../variaveis.css);
+
+.principal__descricao{
+          color: var(--cinza-secundario);
+          font-size: 0.75rem;
+          padding-top: 0.4375rem;
+        }

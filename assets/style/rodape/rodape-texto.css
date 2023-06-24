@@ -1,0 +1,14 @@
+@import url(../variaveis.css);
+
+.rodape__texto{
+      align-items: center;
+      color: var(--cinza-secundario);
+      font-size: 0.875rem ;
+      margin: 0 7.5rem 3rem 7.5rem;
+      padding-bottom: 1rem;
+  }
+.rodape__texto1{
+      color: var(--cinza-secundario);
+      font-size: 0.875rem ;
+      padding-bottom: 1rem ;
+  }
